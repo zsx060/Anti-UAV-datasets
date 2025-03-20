@@ -231,7 +231,7 @@ We are now organizing the CVPR 2025 Anti-UAV Workshop & Challenge, which is coll
 - Please consult and consider citing the following papers:
 
       @inproceedings{wang2024plrut,
-      title={PLRUT: Pseudo Label and Re-detection Boosted Unsupervised Tracking of Unmanned Aerial Vehicle Objects},
+      title={PLRUT: Pseudo Label and Re-Detection Boosted Unsupervised Tracking of Unmanned Aerial Vehicle Objects},
       author={Wang, Jun and Dai, Huadong and Zhang, Bo and Qin, Shan and Zhao, Jian and Zhang, Zhihao},
       booktitle={PRCV 2024},
       year={2024}
@@ -239,7 +239,7 @@ We are now organizing the CVPR 2025 Anti-UAV Workshop & Challenge, which is coll
 
 
       @inproceedings{xia2023unified,
-      title={Unified single-stage transformer network for efficient RGB-T tracking},
+      title={Unified Single-Stage Transformer Network for Efficient RGB-T Tracking},
       author={Xia, Jianqiang and Shi, DianXi and Song, Ke and Song, Linna and Wang, XiaoLei and Jin, Songchang and Zhou, Li and Cheng, Yu and Jin, Lei and Zhu, Zheng and others},
       booktitle={IJCAI 2024},
       year={2024}
@@ -271,7 +271,7 @@ We are now organizing the CVPR 2025 Anti-UAV Workshop & Challenge, which is coll
 
 
       @article{jiang2021anti,
-      title={Anti-UAV: a large-scale benchmark for vision-based UAV tracking},
+      title={Anti-UAV: A Large-Scale Benchmark for Vision-based UAV Tracking},
       author={Jiang, Nan and Wang, Kuiran and Peng, Xiaoke and Yu, Xuehui and Wang, Qiang and Xing, Junliang and Li, Guorong and Ye, Qixiang and Jiao,           Jianbin and Han, Zhenjun and others},
       journal={T-MM},
       year={2021}
@@ -279,7 +279,7 @@ We are now organizing the CVPR 2025 Anti-UAV Workshop & Challenge, which is coll
       
       
       @article{zhao20212nd,
-      title={The 2nd anti-UAV workshop \& challenge: methods and results},
+      title={The 2nd anti-UAV Workshop \& Challenge: Methods and Results},
       author={Zhao, Jian and Wang, Gang and Li, Jianan and Jin, Lei and Fan, Nana and Wang, Min and Wang, Xiaojuan and Yong, Ting and Deng, Yafeng and           Guo, Yandong and others},
       journal={arXiv preprint arXiv:2108.09909},
       year={2021}
