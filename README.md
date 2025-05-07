@@ -224,7 +224,9 @@ We have organized the CVPR 2023 Anti-UAV Workshop & Challenge, which is collabor
 We are now organizing the CVPR 2025 Anti-UAV Workshop & Challenge, which is collaborated by BIT, Oulu, BUPT, NUDT, WHU, HKU, PolyU, UVA, NUS, UW, Ant Group, etc.
 
 
-* [Result Submission & Leaderboard](https://anti-uav.github.io/submission/).  
+* [Result Submission & Leaderboard](https://anti-uav.github.io/submission/).
+
+* [VINT News](https://mp.weixin.qq.com/s/dTWNLMgEzzBEDqJAEavGyg).
 
 ****
 ### Citation
